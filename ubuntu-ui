@@ -1,0 +1,10 @@
+deb http://kambing.ui.ac.id/ubuntu/ cosmic main restricted
+deb http://kambing.ui.ac.id/ubuntu/ cosmic-updates main restricted
+deb http://kambing.ui.ac.id/ubuntu/ cosmic universe
+deb http://kambing.ui.ac.id/ubuntu/ cosmic-updates universe
+deb http://kambing.ui.ac.id/ubuntu/ cosmic multiverse
+deb http://kambing.ui.ac.id/ubuntu/ cosmic-updates multiverse
+deb http://kambing.ui.ac.id/ubuntu/ cosmic-backports main restricted universe multiverse
+deb http://kambing.ui.ac.id/ubuntu/ cosmic-security main restricted
+deb http://kambing.ui.ac.id/ubuntu/ cosmic-security universe
+deb http://kambing.ui.ac.id/ubuntu/ cosmic-security multiverse
